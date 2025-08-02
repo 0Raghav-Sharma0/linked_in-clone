@@ -1,6 +1,6 @@
 # LinkedIn Clone – MERN Stack Project
-
-A full-stack LinkedIn Clone built using the MERN stack. This project replicates key LinkedIn features including user authentication, profile management, posting updates, and establishing professional connections.
+🚀 **Live Demo:** [View Project](https://lnkd.in/grQiD4rK)
+# A full-stack LinkedIn Clone built using the MERN stack. This project replicates key LinkedIn features including user authentication, profile management, posting updates, and establishing professional connections.
 
 ## Table of Contents
 
@@ -46,6 +46,12 @@ This **LinkedIn Clone** is a MERN stack web application that offers the core fun
 - **HTTP Requests:** Axios
 
 ### Screenshots
+<img width="1753" height="794" alt="Screenshot 2025-08-03 013134" src="https://github.com/user-attachments/assets/40d93dca-a907-46a1-9b40-28c1d8059418" />
+<img width="1842" height="705" alt="Screenshot 2025-08-03 013111" src="https://github.com/user-attachments/assets/031221f9-23e0-40c1-b5dc-9b9eabda2403" />
+<img width="1874" height="697" alt="Screenshot 2025-08-03 013042" src="https://github.com/user-attachments/assets/3ce72e04-a727-4344-a5c6-3bb6dce0cad9" />
+
+
+
 
 ## In Progress
 
@@ -155,5 +161,5 @@ Distributed under the [MIT](LICENSE). See the LICENSE file for more details.
 For any questions or feedback, please reach out:
 GitHub: [0Raghav-Sharma0](https://github.com/0Raghav-Sharma0)
 
-Email: raghavsharma.iiitsonepat@gmail.com
+Email: raghav.sharma09900@gmail.com
 
